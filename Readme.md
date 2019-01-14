@@ -1,4 +1,4 @@
-# Project Pitch Perfect
+# Meme Me 2.0
 
 Udacity Nanodegree Education Projects
 
